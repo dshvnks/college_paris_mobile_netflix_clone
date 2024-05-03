@@ -11,7 +11,6 @@ class NetflixCloneApp extends StatelessWidget {
     return MaterialApp(
       title: "Netflix Clone",
       home: HomeScreen(),
-      debugShowCheckedModeBanner: false,
     );
   }
 }
